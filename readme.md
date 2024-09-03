@@ -1,1 +1,1 @@
-Screpped makaan.com website to gather data
+Scrapped makaan.com website to gather data
